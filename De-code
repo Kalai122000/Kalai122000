@@ -1,0 +1,22 @@
+import java.util.*;
+class Main {
+    public static void main(String args[]) {
+        Scanner sc = new Scanner(System.in);
+        String s = sc.nextLine();
+        if (s == null || s.length() == 0 || s.charAt(0) == '0') {
+            System.out.println("Not valid");
+        }
+        char[] chars = s.toCharArray();
+        int n = chars.length;
+        int[] dp = new int[n + 1];
+        dp[0] = 1;
+        dp[1] = 1;
+        for (int i = 2; i < dp.length; i++) {
+            int cur = chars[i - 1] - '0';
+            int pre = (chars[i - 2] - '0' ) * 10 + cur;
+            if (cur != 0) dp[i] = dp[i - 1];
+            if (pre >= 10 && pre <= 26) dp[i] += dp[i - 2];
+        }
+        System.out.print("Number of way to decode :"+ dp[n]);
+    }
+}
