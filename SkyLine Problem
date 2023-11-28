@@ -1,0 +1,33 @@
+import heapq
+
+def getSkyline(buildings):
+    if not buildings:
+        return []
+
+    events = []
+    for xstart, height, xend in buildings:
+        events.append((xstart, -height, xend))
+        events.append((xend, height, 0))
+
+    events.sort()  # Sort events by x-coordinate
+
+    result = []
+    max_heap = [(0, float('inf'))]  # Max heap to track heights (height, xend)
+
+    for x, neg_height, xend in events:
+        if neg_height < 0:  # If it's a building start event
+            heapq.heappush(max_heap, (neg_height, xend))
+        else:  # If it's a building end event
+            while max_heap[0][1] <= x:
+                heapq.heappop(max_heap)
+        curr_max_height = -max_heap[0][0]  # Current maximum height
+
+        # If the result is empty or the current height is different from the previous one
+        if not result or curr_max_height != result[-1][1]:
+            result.append((x, curr_max_height))
+
+    return result
+
+buildings = [(1, 3, 3), (2, 4, 4), (5, 8, 2), (6, 7, 4), (8, 9, 4)]
+print(getSkyline(buildings))
+    
