@@ -1,14 +1,42 @@
+You are tasked with optimizing the management of a conference hall where various events take place. 
+Your program should efficiently determine the maximum number of attendees present in the hall at any given time, 
+considering both arrivals and departures. To ensure the integrity of the data and the accuracy of the solution, 
+the Input intervals must adhere to certain constraints: A
 
+Non-negative Time Intervals: Both arrival and departure times must be non-negative integers 
+to ensure that the intervals are valid and realistic. 
+Arrival Before Departure: Each attendee's arrival time must precede their departure time to maintain the chronological order of events. 
+Overlapping Intervals: The program should handle cases where attendees might arrive or depart at the same time or where 
+one attendee's departure coincides with another's arrival.
 
+How would you enhance your solution to accommodate these constraints effectively?
 
+Input Format: A sequence of pairs, each pair consisting of an arrival time and a departure time for an attendee, 
+terminated by the word "done". Each pair is inputted on a new line.
 
+Output Format: A single integer representing the maximum number of attendees present in the hall at the same time.
 
+Sample Input:
 
+5,10
 
+7,12
 
+11.15
 
+13,18
 
+14,16
 
+done
+
+Sample Output: 3
+
+Explanation: In the given input, five intervals representing arrival and departure times 
+of attendees are provided. The program calculates the maximum number of attendees present in the hall at any given time, 
+adhering to the constraints outlined above. For instance, for the time starting at 2pm (14), 
+three attendees (attendee-3, attendee-4 and attendee-5) are present, which is the madmum count during any Interval. 
+Therefore, the output is 3.
 
 
 
