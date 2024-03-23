@@ -1,0 +1,36 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+def max1(a):
+    conf = []
+    for i in a:
+        t1, t2 = map(int, i.split(','))
+        conf.append((t1, 1))  
+        conf.append((t2, -1)) 
+    conf.sort()  
+    max2= 0
+    curr = 0
+    
+    for i, j in conf:
+        curr += j
+        max2 = max(max2, curr)
+    return max2
+a = []
+while True:
+    i = input().strip()
+    if i == "done":
+        break
+    a.append(i)
+print(max1(a))
