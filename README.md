@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kalaiyarasan122k&label=Profile+views&color=70a5fd&style=flat-square" alt="Profile views"/>
-  <a href="https://www.linkedin.com/in/kalaiyarasan-m-1232k"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/kalaiyarasan-m-122k"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:kalaiyarasan122k@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
