@@ -5,7 +5,7 @@
 
 <!-- 2. TYPING HEADER -->
 <p align="center">
-  <a href="https://github.com/kalaiyarasan122k">
+  <a href="https://github.com/kalai122000">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Kalaiyarasan+M+%F0%9F%91%8B;Technical+Trainer+with+3%2B+years+of+experience;Python+%7C+Java+%7C+MERN+%7C+C%2B%2B+%7C+SQL;I+simplify+complex+concepts+for+every+learner" alt="Typing SVG"/>
   </a>
 </p>
@@ -96,7 +96,7 @@ print(me.motto())
 ```
 <p align="center">
   <i>💬 Ask me about Python, Java, MERN, SQL, or how to teach them well!</i><br/>
-  <a href="mailto:kalaiyarasanm43@gmail.com">kalaiyarasan122k@gmail.com</a> ·
+  <a href="mailto:kalaiyarasanm43@gmail.com">kalaiyarasanm43@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/kalaiyarasan-m-122k">LinkedIn</a>
 </p>
 
