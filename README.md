@@ -6,7 +6,7 @@
 <!-- 2. TYPING HEADER -->
 <p align="center">
   <a href="https://github.com/kalaiyarasan122k">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Kalaiyarasan+M+%F0%9F%91%8B;Technical+Trainer+with+3%2B+years+of+experience;Python+%7C+Java+%7C+JavaScript+%7C+C%2B%2B+%7C+SQL;I+simplify+complex+concepts+for+every+learner" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Kalaiyarasan+M+%F0%9F%91%8B;Technical+Trainer+with+3%2B+years+of+experience;Python+%7C+Java+%7C+MERN+%7C+C%2B%2B+%7C+SQL;I+simplify+complex+concepts+for+every+learner" alt="Typing SVG"/>
   </a>
 </p>
 
