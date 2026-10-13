@@ -28,10 +28,10 @@ class Kalaiyarasan:
 
     stack = ["Python", "Java", "C++", "C", "SQL",
              "HTML5", "CSS3", "JavaScript",
-             "MySQL", "PL/SQL", "MongoDB", "Git"]
+             "MySQL", "PL/SQL", "MERN", "Git"]
 
     currently_learning = ["Cloud Computing",
-                          "Deep Learning",
+                          "Gen-AI",
                           "Linux & Shell Scripting"]
 
     fun_fact = "I turn tough concepts into 'aha!' moments"
