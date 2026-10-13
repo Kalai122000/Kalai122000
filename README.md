@@ -87,40 +87,12 @@ print(me.motto())
   <img src="https://img.shields.io/badge/MySQL%20Workbench-00758F?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-<!-- 12. ACHIEVEMENTS -->
-## 🏆 Achievements &amp; Certifications
-
-<div align="center">
-
-| | Achievement | Details |
-|:-:|:------------|:--------|
-| 🎓 | **B.E. Computer Science and Engineering** | Graduated 2022 from Paavai College of Engineering with a CGPA of 7.76 |
-| 👨‍🏫 | **3+ Years as Technical Trainer** | Senior Technical Trainer at FACE Prep (2022–2024), then freelance trainer for multiple EdTech companies |
-| 📜 | **Udemy Certifications** | Data Structures and Algorithms · Database Management (SQL, PL/SQL) · Web Programming · Linux and Shell Scripting |
-| ☁️ | **LinkedIn Certification** | Cloud Computing |
-| 🖥️ | **CSC Academy** | DDTP – Diploma in Desktop Publishing · MS-Office · Adobe Photoshop, Lightroom, Illustrator |
-
-</div>
-
-<!-- 13. EDUCATION + CURRENTLY LEARNING + FOOTER -->
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|:-------|:------------|:----:|:-----:|
-| Bachelor of Computer Science and Engineering | Paavai College of Engineering | 2022 | CGPA 7.76 |
-| High School | – | 2018 | – |
-
-</div>
-
 ## 🌱 Currently Learning
 
 ```
 ☁️  Cloud Computing   → Cloud fundamentals, deployment models, core services
 🧠 Deep Learning     → SSD, TensorFlow, PyTorch, model optimization
 🐧 Linux & Shell     → Scripting, automation, command-line workflows
-🧱 Data Structures   → Algorithms, problem solving, complexity analysis
 ```
 
 <p align="center">
