@@ -94,11 +94,10 @@ print(me.motto())
 🧠 Deep Learning     → SSD, TensorFlow, PyTorch, model optimization
 🐧 Linux & Shell     → Scripting, automation, command-line workflows
 ```
-
 <p align="center">
-  <i>💬 Ask me about Python, Java, SQL, or how to teach them well!</i><br/>
-  <a href="mailto:kalaiyarasan122k@gmail.com">kalaiyarasan122k@gmail.com</a> ·
-  <a href="https://www.linkedin.com/in/kalaiyarasan-m-1232k">LinkedIn</a>
+  <i>💬 Ask me about Python, Java, MERN, SQL, or how to teach them well!</i><br/>
+  <a href="mailto:kalaiyarasanm43@gmail.com">kalaiyarasan122k@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/kalaiyarasan-m-122k">LinkedIn</a>
 </p>
 
 <p align="center">
