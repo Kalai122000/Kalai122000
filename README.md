@@ -86,46 +86,6 @@ print(me.motto())
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL%20Workbench-00758F?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
-<!-- 10. WORK EXPERIENCE -->
-## 💼 Work Experience
-
-<details open>
-<summary><b>🎓 Freelance Technical Trainer</b> · Freelance · 2024 – Present · India</summary>
-<br/>
-
-> `Python` `Java` `JavaScript` `C++` `SQL` `Workshops` `Mentoring` `Curriculum Design`
-
-- Collaborating with multiple EdTech companies and clients across industries to develop customized training modules.
-- Conducting workshops and mentoring aspiring developers.
-- Adapting to different work environments and delivering results tailored to each client's needs.
-- Managing multiple engagements at once while continuously learning and problem-solving.
-
-</details>
-
-<details>
-<summary><b>🏫 Senior Technical Trainer</b> · FACE Prep · 2022 – 2024 · India</summary>
-<br/>
-
-> `Python` `Java` `JavaScript` `C++` `SQL` `Lesson Planning` `Hands-on Projects`
-
-- Designed and delivered comprehensive programming programs in Python, Java, JavaScript, C++, and SQL for beginner and advanced learners.
-- Created engaging lesson plans, hands-on exercises, and real-world projects to strengthen understanding of programming concepts.
-- Broke down complex technical concepts for diverse audiences through clear presentation and communication.
-- Spent two years training learners at FACE Prep, building the foundation for 3+ years of overall training experience.
-
-</details>
-
-<!-- 11. FEATURED PROJECTS -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|:--------|:------|:-----------|
-| **[Real-Time Object Detection using SSD](https://github.com/kalaiyarasan122k)** (2022) | `Python` `TensorFlow` `OpenCV` `NumPy` `Pandas` `Matplotlib` | Fast, accurate real-time object recognition using the SSD deep learning model with pre-trained models and optimization techniques. Covers data collection, model selection, preprocessing, and training. |
-| **[Deep Learning Anti-Fraud Model – Internet Loan](https://github.com/kalaiyarasan122k)** (2020) | `Python` `TensorFlow` `PyTorch` `NumPy` `Pandas` `MySQL` `Git` | Deep learning system to detect and prevent fraud on online lending platforms, using real-time data processing to reduce financial losses and improve security. |
-
-</div>
 
 <!-- 12. ACHIEVEMENTS -->
 ## 🏆 Achievements &amp; Certifications
